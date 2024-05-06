@@ -5,6 +5,3 @@
 - Run all cells in vs code 
 - Now you can see the output
 
-## Final Output
-
-<video controls src="gradient_descent_animation.mp4" title="Title"></video>
